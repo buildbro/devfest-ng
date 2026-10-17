@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Onitsha",
+    "url": "https://gdg.community.dev/gdg-onitsha/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-onitsha-presents-devfest-onitsha-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-onitsha-2026",
+  "title": "DevFest Onitsha 2026",
+  "city": "Onitsha",
+  "state": "Anambra",
+  "summary": "DevFest Onitsha 2026 gathers developers, tech entrepreneurs, and creators across Anambra State for a full day of talks and workshops covering artificial intelligence, cloud architectures, and digital enterprise.",
+  "startsAt": "2026-11-07T10:00:00+01:00",
+  "endsAt": "2026-11-07T16:00:00+01:00",
+  "venue": {
+    "name": "Vegas Astoria Hotel & Suites",
+    "address": "GRA Onitsha, Anambra State"
+  }
+}
+

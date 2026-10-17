@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Ado-Ekiti",
+    "url": "https://gdg.community.dev/gdg-ado-ekiti/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-ado-ekiti-presents-devfest-ado-ekiti-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-ado-ekiti-2026",
+  "title": "DevFest Ado-Ekiti 2026",
+  "city": "Ado-Ekiti",
+  "state": "Ekiti",
+  "summary": "DevFest Ado-Ekiti 2026 brings together the tech community across Ekiti State for two days of learning, networking, and celebration of Google technologies, featuring tracks on Artificial Intelligence, Web, and Cloud systems.",
+  "startsAt": "2026-10-02T09:00:00+01:00",
+  "endsAt": "2026-10-03T16:00:00+01:00",
+  "venue": {
+    "name": "Civic Center Amphitheatre",
+    "address": "Obafemi Awolowo Civic Convention Center, Ado Ekiti, Ekiti State"
+  }
+}
+

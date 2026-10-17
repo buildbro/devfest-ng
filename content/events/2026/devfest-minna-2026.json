@@ -1,0 +1,21 @@
+{
+  "chapter": {
+    "name": "GDG Minna",
+    "url": "https://gdg.community.dev/gdg-minna/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-minna-presents-devfest-minna-2026/",
+  "lastVerifiedAt": "2026-10-12",
+  "sample": false,
+  "slug": "devfest-minna-2026",
+  "title": "DevFest Minna 2026",
+  "city": "Minna",
+  "state": "Niger",
+  "summary": "DevFest is the ultimate technology gathering that brings people together worldwide! This incredible conference is organized by Google Developer Groups from all corners of the globe, and guess what? We're celebrating its 15th year in 2026! You can find all the exciting details about DevFest on developers.google.com Join us in this global technology celebration! 💻🎉. Best of all attendance is free!",
+  "startsAt": "2026-10-17T09:00:00+01:00",
+  "endsAt": "2026-10-17T16:30:00+01:00",
+  "venue": {
+    "name": "Saidu Namaska Hall",
+    "address": "Abdulkadir Kure University, Minna"
+  }
+}

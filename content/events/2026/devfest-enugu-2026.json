@@ -1,0 +1,21 @@
+{
+  "chapter": {
+    "name": "GDG Enugu",
+    "url": "https://gdg.community.dev/gdg-enugu/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-enugu-presents-devfest-enugu-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-enugu-2026",
+  "title": "DevFest Enugu 2026",
+  "city": "Enugu",
+  "state": "Enugu",
+  "summary": "DevFest Enugu 2026 is the premier annual technology conference organized by GDG Enugu. Bringing together software engineers, founders, students, and tech enthusiasts across the southeast for two days of deep technical sessions on AI, Cloud, Android, Flutter, and career growth.",
+  "startsAt": "2026-12-04T09:00:00+01:00",
+  "endsAt": "2026-12-05T17:00:00+01:00",
+  "venue": {
+    "name": "Hotel Sylvia",
+    "address": "Enugu, Enugu State"
+  }
+}

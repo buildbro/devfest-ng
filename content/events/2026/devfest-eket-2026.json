@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Eket",
+    "url": "https://gdg.community.dev/gdg-eket/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-eket-presents-devfest-eket-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-eket-2026",
+  "title": "DevFest Eket 2026",
+  "city": "Eket",
+  "state": "Akwa Ibom",
+  "summary": "DevFest Eket 2026 unites developers, creators, and students in Eket for an empowering conference on Google technologies, AI application development, mobile frameworks, and collaborative building.",
+  "startsAt": "2026-10-24T10:00:00+01:00",
+  "endsAt": "2026-10-24T17:00:00+01:00",
+  "venue": {
+    "name": "AfricInnovate",
+    "address": "16 Uqua Road, Eket, Akwa Ibom State"
+  }
+}
+

@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Ilorin",
+    "url": "https://gdg.community.dev/gdg-ilorin/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-ilorin-presents-devfest-ilorin-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-ilorin-2026",
+  "title": "DevFest Ilorin 2026",
+  "city": "Ilorin",
+  "state": "Kwara",
+  "summary": "DevFest Ilorin 2026 unites developers, creatives, and entrepreneurs across Kwara State at the Ilorin Innovation Hub for deep technical sessions, AI workshops, and community networking.",
+  "startsAt": "2026-11-06T08:00:00+01:00",
+  "endsAt": "2026-11-07T17:00:00+01:00",
+  "venue": {
+    "name": "Ilorin Innovation Hub",
+    "address": "9a Ahmadu Bello Way, Ilorin, Kwara State"
+  }
+}
+

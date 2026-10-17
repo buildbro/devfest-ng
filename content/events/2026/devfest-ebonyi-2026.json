@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Abakaliki",
+    "url": "https://gdg.community.dev/gdg-abakaliki/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-abakaliki-presents-devfest-ebonyi-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-ebonyi-2026",
+  "title": "DevFest Ebonyi 2026",
+  "city": "Abakaliki",
+  "state": "Ebonyi",
+  "summary": "DevFest Ebonyi 2026 brings the tech community together in Abakaliki for an enriching day of talks, hands-on workshops, and community showcases focused on AI, cloud engineering, and modern web technologies.",
+  "startsAt": "2026-10-31T10:30:11+01:00",
+  "endsAt": "2026-10-31T16:00:00+01:00",
+  "venue": {
+    "name": "Tastia Restaurant Upstairs",
+    "address": "Waterworks opposite fire service station, Abakaliki, Ebonyi State"
+  }
+}
+

@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Ogbomoso",
+    "url": "https://gdg.community.dev/gdg-ogbomoso/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-ogbomoso-presents-devfest-ogbomoso-2026-day-2-conference/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-ogbomoso-2026",
+  "title": "DevFest Ogbomoso 2026",
+  "city": "Ogbomoso",
+  "state": "Oyo",
+  "summary": "DevFest Ogbomoso 2026 is the main conference celebration of technology hosted by GDG Ogbomoso. Bringing together developers, innovators, and students at Ennovate Lab for keynotes, breakout technical sessions, and community networking.",
+  "startsAt": "2026-10-17T09:00:00+01:00",
+  "endsAt": "2026-10-17T16:00:00+01:00",
+  "venue": {
+    "name": "The Assembly by Ennovate Lab",
+    "address": "Beside The Willows Nest Hotel, Ogbomoso, Oyo State"
+  }
+}
+

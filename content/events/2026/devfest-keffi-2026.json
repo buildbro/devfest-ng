@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Keffi",
+    "url": "https://gdg.community.dev/gdg-keffi/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-keffi-presents-devfest-keffi-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-keffi-2026",
+  "title": "DevFest Keffi 2026",
+  "city": "Keffi",
+  "state": "Nasarawa",
+  "summary": "DevFest Keffi 2026 unites developers, creators, and students across Nasarawa State for a dynamic gathering focused on Google technologies, artificial intelligence, and open collaborative building.",
+  "startsAt": "2026-11-07T10:00:38+01:00",
+  "endsAt": "2026-11-07T16:00:00+01:00",
+  "venue": {
+    "name": "Keffi Tech Hub",
+    "address": "Keffi, Nasarawa State, Nigeria"
+  }
+}
+

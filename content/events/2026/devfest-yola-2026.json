@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Yola",
+    "url": "https://gdg.community.dev/gdg-yola/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-yola-presents-devfest-yola-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-yola-2026",
+  "title": "DevFest Yola 2026",
+  "city": "Yola",
+  "state": "Adamawa",
+  "summary": "DevFest Yola 2026 gathers developers, tech enthusiasts, and students in Adamawa State for a day of inspiring keynotes, technical workshops, and community networking focused on modern AI and cloud platforms.",
+  "startsAt": "2026-12-19T09:00:00+01:00",
+  "endsAt": "2026-12-19T16:00:00+01:00",
+  "venue": {
+    "name": "TBD",
+    "address": "Jimeta / Yola, Adamawa State, Nigeria"
+  }
+}
+

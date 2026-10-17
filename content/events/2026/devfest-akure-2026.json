@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Akure",
+    "url": "https://gdg.community.dev/gdg-akure/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-akure-presents-devfest-akure-2026-day-2-conference/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-akure-2026",
+  "title": "DevFest Akure 2026",
+  "city": "Akure",
+  "state": "Ondo",
+  "summary": "DevFest Akure 2026 is the main conference celebration of technology in Ondo State. Join developers, designers, and innovators at the Akure Tech Hub for visionary keynotes, developer showcases, and discussions on the agentic tech era.",
+  "startsAt": "2026-10-24T09:00:00+01:00",
+  "endsAt": "2026-10-24T17:00:00+01:00",
+  "venue": {
+    "name": "Akure Tech Hub",
+    "address": "FUTA, Akure, Ondo State"
+  }
+}
+

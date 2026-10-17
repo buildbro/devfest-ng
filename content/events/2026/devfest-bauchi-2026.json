@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Bauchi",
+    "url": "https://gdg.community.dev/gdg-bauchi/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-bauchi-presents-devfest-bauchi-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-bauchi-2026",
+  "title": "DevFest Bauchi 2026",
+  "city": "Bauchi",
+  "state": "Bauchi",
+  "summary": "DevFest Bauchi 2026 is the annual developer conference organized by GDG Bauchi, connecting developers, students, and tech innovators across northeastern Nigeria for talks on AI, mobile development, and cloud systems.",
+  "startsAt": "2026-10-03T09:00:00+01:00",
+  "endsAt": "2026-10-03T16:00:00+01:00",
+  "venue": {
+    "name": "Sir Ahmadu Bello International Conference Centre",
+    "address": "Bauchi, Bauchi State"
+  }
+}
+

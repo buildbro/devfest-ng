@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Bonny Island",
+    "url": "https://gdg.community.dev/gdg-bonny-island/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-bonny-island-presents-devfest-bonny-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-bonny-2026",
+  "title": "DevFest Bonny Island 2026",
+  "city": "Bonny Island",
+  "state": "Rivers",
+  "summary": "DevFest Bonny Island 2026 unites developers, creators, and engineers on Bonny Island for an insightful tech conference featuring talks on artificial intelligence, modern cloud stacks, and local tech innovation.",
+  "startsAt": "2026-10-10T10:00:03+01:00",
+  "endsAt": "2026-10-10T13:30:03+01:00",
+  "venue": {
+    "name": "Cedars Productivity Centre",
+    "address": "Moore Jackson Street, Bonny Island, Rivers State"
+  }
+}
+

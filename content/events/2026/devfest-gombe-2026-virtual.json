@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Gombe",
+    "url": "https://gdg.community.dev/gdg-gombe/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-gombe-presents-devfest-gombe-2026-virtual-edition-build-secure-scale/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-gombe-2026-virtual",
+  "title": "DevFest Gombe 2026 (Virtual Edition)",
+  "city": "Gombe",
+  "state": "Gombe",
+  "summary": "DevFest Gombe 2026 Virtual Edition connects remote developers across Nigeria and beyond for focused online sessions on building secure, scalable systems with AI and Google Cloud.",
+  "startsAt": "2026-09-26T10:00:00+01:00",
+  "endsAt": "2026-09-26T13:00:00+01:00",
+  "venue": {
+    "name": "Virtual Event",
+    "address": "Online, Gombe"
+  }
+}
+

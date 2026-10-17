@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Makurdi",
+    "url": "https://gdg.community.dev/gdg-makurdi/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-makurdi-presents-devfest-makurdi-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-makurdi-2026",
+  "title": "DevFest Makurdi 2026",
+  "city": "Makurdi",
+  "state": "Benue",
+  "summary": "DevFest Makurdi 2026 brings together technologists, builders, and students across Benue State for technical keynotes, AI demonstrations, and collaborative community building.",
+  "startsAt": "2026-11-07T10:12:33+01:00",
+  "endsAt": "2026-11-07T17:00:00+01:00",
+  "venue": {
+    "name": "Steam Lounge",
+    "address": "Opposite Former Jamb Office, Old GRA, Makurdi, Benue State"
+  }
+}
+

@@ -1,0 +1,21 @@
+{
+  "chapter": {
+    "name": "GDG Benin",
+    "url": "https://gdg.community.dev/gdg-benin/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-benin-presents-devfest-benin-2026-connect-learn-innovate/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-benin-2026",
+  "title": "DevFest Benin 2026",
+  "city": "Benin City",
+  "state": "Edo",
+  "summary": "DevFest Benin 2026: Connect, Learn, Innovate! Join developers, designers, tech enthusiasts, and industry leaders from across Edo State and beyond for an empowering day of insightful talks, technical workshops, product showcases, and high-impact networking.",
+  "startsAt": "2026-12-12T10:00:00+01:00",
+  "endsAt": "2026-12-12T16:00:53+01:00",
+  "venue": {
+    "name": "Victor Uwaifo Creative Hub & Sound Stage",
+    "address": "Airport Road, Benin City, Edo State"
+  }
+}

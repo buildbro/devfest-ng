@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Osogbo",
+    "url": "https://gdg.community.dev/gdg-osogbo/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-osogbo-presents-devfest-2026-building-safe-secure-amp-scalable-solutions-with-ai-and-cloud-for-local-impact/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-osogbo-2026",
+  "title": "DevFest Osogbo 2026",
+  "city": "Osogbo",
+  "state": "Osun",
+  "summary": "DevFest Osogbo 2026: Building Safe, Secure & Scalable Solutions with AI and Cloud for Local Impact! Join GDG Osogbo at Osun State University for an empowering conference on AI, cybersecurity, and cloud solutions.",
+  "startsAt": "2026-12-12T09:00:00+01:00",
+  "endsAt": "2026-12-12T16:00:00+01:00",
+  "venue": {
+    "name": "Osun State University",
+    "address": "Oke Bale Street, Osogbo, Osun State"
+  }
+}
+

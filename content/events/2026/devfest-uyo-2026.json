@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Uyo",
+    "url": "https://gdg.community.dev/gdg-uyo/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-uyo-presents-devfest-uyo-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-uyo-2026",
+  "title": "DevFest Uyo 2026",
+  "city": "Uyo",
+  "state": "Akwa Ibom",
+  "summary": "DevFest Uyo 2026 unites developers, designers, and innovators in Uyo for an engaging day of technical talks, product showcases, and community networking across Google Cloud, Flutter, and AI.",
+  "startsAt": "2026-11-21T09:00:00+01:00",
+  "endsAt": "2026-11-21T15:30:00+01:00",
+  "venue": {
+    "name": "Jacksville Events Place",
+    "address": "Unit E, Plot 1, Ewet Housing Estate, Uyo, Akwa Ibom State"
+  }
+}
+

@@ -1,0 +1,21 @@
+{
+  "chapter": {
+    "name": "GDG Abuja",
+    "url": "https://gdg.community.dev/gdg-abuja/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-abuja-presents-devfest-abuja-2026-unleash-your-tech-potential/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-abuja-2026",
+  "title": "DevFest Abuja 2026",
+  "city": "Abuja",
+  "state": "FCT",
+  "summary": "DevFest Abuja 2026 is a two-day tech extravaganza on October 30-31, offering hands-on workshops in AI, UI/UX, Cloud & Kubernetes, and Mobile + AI at Novare Mall. Enjoy keynotes and breakout sessions at Aduvie Event Centre, and network with like-minded tech enthusiasts. Upskill, discover new opportunities, and join Abuja's vibrant tech community.",
+  "startsAt": "2026-10-30T09:00:00+01:00",
+  "endsAt": "2026-10-31T18:00:00+01:00",
+  "venue": {
+    "name": "Aduvie Events Centre",
+    "address": "4C6W+C2F opposite Peace Apartment Jahi, District, Abuja"
+  }
+}

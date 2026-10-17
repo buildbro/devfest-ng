@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Maiduguri",
+    "url": "https://gdg.community.dev/gdg-maiduguri/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-maiduguri-presents-devfest-maiduguri-2026-1/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-maiduguri-2026",
+  "title": "DevFest Maiduguri 2026",
+  "city": "Maiduguri",
+  "state": "Borno",
+  "summary": "DevFest Maiduguri 2026 brings the developer and startup community together in Borno State for an exciting day of tech talks, codelabs, and discussions exploring AI, cloud technologies, and local ecosystem solutions.",
+  "startsAt": "2026-10-24T09:30:00+01:00",
+  "endsAt": "2026-10-24T15:00:00+01:00",
+  "venue": {
+    "name": "Borno State Hotel Conference Hall",
+    "address": "Off Lafiya Road Behind GRA Police Station, Maiduguri, Borno State"
+  }
+}
+

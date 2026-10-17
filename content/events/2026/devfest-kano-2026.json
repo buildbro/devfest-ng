@@ -1,0 +1,21 @@
+{
+  "chapter": {
+    "name": "GDG Kano",
+    "url": "https://gdg.community.dev/"
+  },
+  "status": "postponed",
+  "rsvpUrl": "https://gdg.community.dev/",
+  "lastVerifiedAt": "2026-10-12",
+  "sample": true,
+  "slug": "devfest-kano-2026",
+  "title": "DevFest Kano 2026",
+  "city": "Kano",
+  "state": "Kano",
+  "summary": "Sample entry. Postponed example to show the status override.",
+  "startsAt": "2026-12-05T09:00:00+01:00",
+  "endsAt": "2026-12-05T16:00:00+01:00",
+  "venue": {
+    "name": "Venue to be announced",
+    "address": "Kano"
+  }
+}

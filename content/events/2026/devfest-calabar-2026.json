@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Calabar",
+    "url": "https://gdg.community.dev/gdg-calabar/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-calabar-presents-devfest-calabar-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-calabar-2026",
+  "title": "DevFest Calabar 2026",
+  "city": "Calabar",
+  "state": "Cross River",
+  "summary": "DevFest Calabar 2026 brings together technologists, creatives, and innovators in Cross River State to celebrate developer communities and discuss modern developments in AI, mobile engineering, and cloud platforms.",
+  "startsAt": "2026-11-21T09:00:00+01:00",
+  "endsAt": "2026-11-21T17:00:00+01:00",
+  "venue": {
+    "name": "State Library, Calabar",
+    "address": "Calabar, Cross River State"
+  }
+}
+

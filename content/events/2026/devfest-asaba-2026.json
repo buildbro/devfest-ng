@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Asaba",
+    "url": "https://gdg.community.dev/gdg-asaba/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-asaba-presents-devfest-asaba-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-asaba-2026",
+  "title": "DevFest Asaba 2026",
+  "city": "Asaba",
+  "state": "Delta",
+  "summary": "DevFest Asaba 2026 brings together technologists, builders, and community leaders across Delta State to explore AI breakthroughs, modern software architectures, and career pathways in tech.",
+  "startsAt": "2026-12-05T09:00:00+01:00",
+  "endsAt": "2026-12-05T17:00:00+01:00",
+  "venue": {
+    "name": "TBD",
+    "address": "Asaba, Delta State, Nigeria"
+  }
+}
+

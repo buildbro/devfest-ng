@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Abeokuta",
+    "url": "https://gdg.community.dev/gdg-abeokuta/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-abeokuta-presents-devfest-abeokuta-2026-developers-and-builders-in-the-agentic-era/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-abeokuta-2026",
+  "title": "DevFest Abeokuta 2026",
+  "city": "Abeokuta",
+  "state": "Ogun",
+  "summary": "DevFest Abeokuta 2026: Developers and Builders in the Agentic Era! Join Ogun State's thriving tech ecosystem for a day of inspiring keynotes, agentic AI workshops, cloud security sessions, and deep developer connections.",
+  "startsAt": "2026-10-31T09:00:00+01:00",
+  "endsAt": "2026-10-31T17:00:00+01:00",
+  "venue": {
+    "name": "Capricorn Cinemas, June 12 Cultural Centre",
+    "address": "Kuto, Abeokuta, Ogun State"
+  }
+}
+

@@ -1,0 +1,21 @@
+{
+  "chapter": {
+    "name": "GDG Port Harcourt",
+    "url": "https://gdg.community.dev/gdg-port-harcourt/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-port-harcourt-presents-devfest-port-harcourt-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-port-harcourt-2026",
+  "title": "DevFest Port Harcourt 2026",
+  "city": "Port Harcourt",
+  "state": "Rivers",
+  "summary": "DevFest Port Harcourt 2026 gathers developers, tech creators, and innovators from across Rivers State and the South-South region. Join us for an inspiring day filled with technical sessions on AI, Cloud, web platforms, and collaborative networking.",
+  "startsAt": "2026-11-28T09:00:00+01:00",
+  "endsAt": "2026-11-28T16:30:00+01:00",
+  "venue": {
+    "name": "Port Harcourt Event Centre",
+    "address": "Port Harcourt, Rivers State, Nigeria"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Umuahia",
+    "url": "https://gdg.community.dev/gdg-umuahia/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-umuahia-presents-devfest-umuahia-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-umuahia-2026",
+  "title": "DevFest Umuahia 2026",
+  "city": "Umuahia",
+  "state": "Abia",
+  "summary": "DevFest Umuahia 2026 gathers tech builders, developers, and founders across Abia State at Abia Mall for an action-packed conference featuring artificial intelligence, web technologies, and mobile frameworks.",
+  "startsAt": "2026-11-21T09:30:00+01:00",
+  "endsAt": "2026-11-21T17:00:00+01:00",
+  "venue": {
+    "name": "Abia Mall",
+    "address": "Old Garki Road, Umuahia, Abia State"
+  }
+}
+

@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Ikot-Ekpene",
+    "url": "https://gdg.community.dev/gdg-ikot-ekpene/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-ikot-ekpene-presents-devfest-meetup-ikot-ekpene-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-ikot-ekpene-2026",
+  "title": "DevFest Meetup Ikot Ekpene 2026",
+  "city": "Ikot Ekpene",
+  "state": "Akwa Ibom",
+  "summary": "Join us for an exciting DevFest Meetup designed for developers, students, tech enthusiasts, and builders in Ikot Ekpene to explore the latest technologies from Google and learn how to turn ideas into practical solutions.",
+  "startsAt": "2026-12-12T10:00:00+01:00",
+  "endsAt": "2026-12-12T14:00:00+01:00",
+  "venue": {
+    "name": "TBA",
+    "address": "Ikot Ekpene Township Road, Ikot Ekpene, Akwa Ibom State"
+  }
+}
+

@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Ajah",
+    "url": "https://gdg.community.dev/gdg-ajah/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-ajah-presents-devfest-ajah-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-ajah-2026",
+  "title": "DevFest Ajah 2026",
+  "city": "Lagos",
+  "state": "Lagos",
+  "summary": "DevFest Ajah 2026 gathers builders, software engineers, and tech creators along the Lekki-Epe expressway corridor for an immersive day of technical talks, career networking, and explorations of modern AI and Google platforms.",
+  "startsAt": "2026-10-10T08:00:00+01:00",
+  "endsAt": "2026-10-10T17:00:00+01:00",
+  "venue": {
+    "name": "Café One Ikate",
+    "address": "10 Nike Art Gallery Road, Lekki/Ajah, Lagos State"
+  }
+}
+

@@ -1,0 +1,21 @@
+{
+  "chapter": {
+    "name": "GDG Owerri",
+    "url": "https://gdg.community.dev/gdg-owerri/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-owerri-presents-devfest-owerri-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-owerri-2026",
+  "title": "DevFest Owerri 2026",
+  "city": "Owerri",
+  "state": "Imo",
+  "summary": "Build, Secure, Scale: Developers and Builders in the Agentic Era. Join us for the Devfest Owerri 2026, where dynamic minds unite to ignite innovation and inspire change! This event brings together developers, tech enthusiasts, and industry experts for an enriching experience filled with insightful talks and networking opportunities. Dive into workshops and sessions tailored to elevate your skills and fuel your projects. Be part of a community that challenges boundaries and creates impactful solutions. Don't miss this chance to connect and collaborate with fellow tech innovators. Mark your calendar and RSVP now to secure your spot!",
+  "startsAt": "2026-10-24T09:00:00+01:00",
+  "endsAt": "2026-10-24T16:30:00+01:00",
+  "venue": {
+    "name": "The Ridge Event Centre",
+    "address": "Onitsha - Owerri Expressway, Owerri, Imo State"
+  }
+}

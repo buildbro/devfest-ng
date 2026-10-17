@@ -1,0 +1,23 @@
+{
+  "chapter": {
+    "name": "GDG Lagos",
+    "url": "https://gdg.community.dev/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/",
+  "lastVerifiedAt": "2026-10-12",
+  "sample": true,
+  "slug": "devfest-lagos-2026",
+  "title": "DevFest Lagos 2026",
+  "city": "Lagos",
+  "state": "Lagos",
+  "summary": "Sample entry. A full day of talks and workshops on AI, cloud and mobile.",
+  "startsAt": "2026-10-24T09:00:00+01:00",
+  "endsAt": "2026-10-24T17:00:00+01:00",
+  "venue": {
+    "name": "Sample Convention Centre",
+    "address": "Victoria Island, Lagos",
+    "mapUrl": "https://maps.google.com/?q=Victoria+Island+Lagos"
+  },
+  "hashtag": "#DevFestLagos"
+}

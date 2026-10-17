@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Ogbomoso",
+    "url": "https://gdg.community.dev/gdg-ogbomoso/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-ogbomoso-presents-devfest-ogbomoso-2026-day-1-workshop-edition/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-ogbomoso-2026-workshop",
+  "title": "DevFest Ogbomoso 2026 (Workshop Edition)",
+  "city": "Ogbomoso",
+  "state": "Oyo",
+  "summary": "DevFest Ogbomoso 2026 Day 1 Workshop Edition focuses on practical implementation. Hosted at SQI College of ICT, attendees dive into hands-on code labs, AI model integrations, and cloud deployments.",
+  "startsAt": "2026-10-16T10:00:00+01:00",
+  "endsAt": "2026-10-16T15:00:00+01:00",
+  "venue": {
+    "name": "SQI College of ICT Main Campus",
+    "address": "Old Ilorin Road, Ogbomoso, Oyo State"
+  }
+}
+

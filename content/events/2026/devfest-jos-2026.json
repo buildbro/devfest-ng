@@ -1,0 +1,21 @@
+{
+  "chapter": {
+    "name": "GDG Jos",
+    "url": "https://gdg.community.dev/gdg-jos/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-jos-presents-devfest-jos-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-jos-2026",
+  "title": "DevFest Jos 2026",
+  "city": "Jos",
+  "state": "Plateau",
+  "summary": "DevFest Jos 2026 unites Plateau State's vibrant developer ecosystem for a full day of hands-on sessions, expert keynotes, and collaborative workshops focused on AI, Cloud computing, mobile development, and community impact.",
+  "startsAt": "2026-10-17T09:00:26+01:00",
+  "endsAt": "2026-10-17T17:00:26+01:00",
+  "venue": {
+    "name": "Odilin's Event Center",
+    "address": "5/6 Nunku Street, off Akila Machunga Road, behind National Library, Jos, Plateau State"
+  }
+}

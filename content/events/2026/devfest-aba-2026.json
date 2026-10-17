@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Aba",
+    "url": "https://gdg.community.dev/gdg-aba/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-aba-presents-devfest-aba-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-aba-2026",
+  "title": "DevFest Aba 2026",
+  "city": "Aba",
+  "state": "Abia",
+  "summary": "DevFest Aba 2026 is the annual developer festival organized by GDG Aba. Bringing together developers, engineers, and tech enthusiasts across Abia State for insightful sessions on AI, Cloud, Android, and Flutter.",
+  "startsAt": "2026-12-05T10:30:00+01:00",
+  "endsAt": "2026-12-05T16:00:00+01:00",
+  "venue": {
+    "name": "Aba Tech Hub",
+    "address": "Aba, Abia State, Nigeria"
+  }
+}
+

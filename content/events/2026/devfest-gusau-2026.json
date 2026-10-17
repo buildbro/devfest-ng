@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Gusau",
+    "url": "https://gdg.community.dev/gdg-gusau/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-gusau-presents-devfest-gusau-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-gusau-2026",
+  "title": "DevFest Gusau 2026",
+  "city": "Gusau",
+  "state": "Zamfara",
+  "summary": "DevFest Gusau 2026 gathers the tech community in Zamfara State for a day of practical workshops and discussions on Google technologies, artificial intelligence, and software craftsmanship.",
+  "startsAt": "2026-12-05T10:00:53+01:00",
+  "endsAt": "2026-12-05T17:00:53+01:00",
+  "venue": {
+    "name": "Taula Arena",
+    "address": "JB Yakubu Secretariat Street, Gusau, Zamfara State"
+  }
+}
+

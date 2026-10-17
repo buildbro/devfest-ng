@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Lokoja",
+    "url": "https://gdg.community.dev/gdg-lokoja/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-lokoja-presents-devfest-lokoja-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-lokoja-2026",
+  "title": "DevFest Lokoja 2026",
+  "city": "Lokoja",
+  "state": "Kogi",
+  "summary": "Kogi State's biggest tech gathering returns for 2026! DevFest Lokoja brings together software developers, students, and tech builders for talks on agentic AI, Google Cloud architectures, and community-driven innovation.",
+  "startsAt": "2026-11-21T10:00:00+01:00",
+  "endsAt": "2026-11-21T14:00:00+01:00",
+  "venue": {
+    "name": "To Be Decided",
+    "address": "Lokoja, Kogi State, Nigeria"
+  }
+}
+

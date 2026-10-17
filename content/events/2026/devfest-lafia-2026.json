@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Lafia",
+    "url": "https://gdg.community.dev/gdg-lafia/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-lafia-presents-devfest-lafia-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-lafia-2026",
+  "title": "DevFest Lafia 2026",
+  "city": "Lafia",
+  "state": "Nasarawa",
+  "summary": "DevFest Lafia 2026 brings the developer community in the Nasarawa State capital together for an engaging day of technical keynotes, workshops, and discussions on artificial intelligence and cloud computing.",
+  "startsAt": "2026-11-21T11:00:49+01:00",
+  "endsAt": "2026-11-21T17:00:00+01:00",
+  "venue": {
+    "name": "TBD",
+    "address": "Lafia, Nasarawa State, Nigeria"
+  }
+}
+

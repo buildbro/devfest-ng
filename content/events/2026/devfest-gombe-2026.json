@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "name": "GDG Gombe",
+    "url": "https://gdg.community.dev/gdg-gombe/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-gombe-presents-devfest-gombe-2026/",
+  "lastVerifiedAt": "2026-10-13",
+  "sample": false,
+  "slug": "devfest-gombe-2026",
+  "title": "DevFest Gombe 2026",
+  "city": "Gombe",
+  "state": "Gombe",
+  "summary": "Build, Secure, Scale: Developers and Builders in the Agentic Era! Join GDG Gombe at the Matrix Event Center for a day of technical keynotes, AI demonstrations, and networking with developers across northeastern Nigeria.",
+  "startsAt": "2026-10-10T08:00:00+01:00",
+  "endsAt": "2026-10-10T17:00:00+01:00",
+  "venue": {
+    "name": "Matrix Event Center",
+    "address": "Dukku Road, Opp. FCE (T.), Gombe, Gombe State"
+  }
+}
+
