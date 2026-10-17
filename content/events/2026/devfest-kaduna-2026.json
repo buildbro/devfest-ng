@@ -1,0 +1,21 @@
+{
+  "chapter": {
+    "name": "GDG Kaduna City",
+    "url": "https://gdg.community.dev/gdg-kaduna-city/"
+  },
+  "status": "scheduled",
+  "rsvpUrl": "https://gdg.community.dev/events/details/google-gdg-kaduna-city-presents-devfest-kaduna-city-26/cohost-gdg-kaduna-city/",
+  "lastVerifiedAt": "2026-10-17",
+  "sample": false,
+  "slug": "devfest-kaduna-city-2026",
+  "title": "DevFest Kaduna City 2026",
+  "city": "Kaduna",
+  "state": "Kaduna",
+  "summary": "DevFest Kaduna City 2026 is the annual developer festival organized by GDG Kaduna City. The event brings together developers, engineers, and technology enthusiasts to explore the evolving developer landscape, including AI, Gemini, autonomous agents, Android, Flutter, Google Cloud, and web technologies. It provides opportunities for learning, collaboration, networking, and building innovative solutions.",
+  "startsAt": "2026-10-31T09:00:00+01:00",
+  "endsAt": "2026-10-31T17:00:00+01:00",
+  "venue": {
+    "name": "AREWA House",
+    "address": "1 Rabah Road, Kaduna, 800283, Kaduna State, Nigeria"
+  }
+}
