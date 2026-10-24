@@ -4,6 +4,10 @@ const LOCALE = "en-NG";
 
 const dayKey = new Intl.DateTimeFormat("en-CA", { timeZone: TZ });
 
+export function getDayKey(iso: string) {
+  return dayKey.format(new Date(iso));
+}
+
 export function formatDate(iso: string, opts: { weekday?: boolean } = {}) {
   return new Intl.DateTimeFormat(LOCALE, {
     timeZone: TZ,

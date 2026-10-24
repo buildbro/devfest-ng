@@ -22,6 +22,14 @@ export const metadata: Metadata = {
   },
   description:
     "Find upcoming and past GDG DevFest events across Nigeria in 2026: dates, venues, RSVP links, photos and videos. An unofficial community directory.",
+  icons: {
+    icon: [
+      { url: "/icon.svg", type: "image/svg+xml" },
+      { url: "/favicon.ico", sizes: "any" },
+    ],
+    shortcut: "/icon.svg",
+    apple: "/icon.svg",
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

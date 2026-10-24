@@ -1,20 +1,7 @@
 import Image from "next/image";
 import type { DevFestEvent } from "@/lib/schema";
 
-const GRADIENTS = [
-  "from-blue-500 to-indigo-700",
-  "from-red-500 to-orange-600",
-  "from-emerald-500 to-teal-700",
-  "from-amber-400 to-orange-600",
-];
-
-function pick(slug: string) {
-  let h = 0;
-  for (const ch of slug) h = (h * 31 + ch.charCodeAt(0)) >>> 0;
-  return GRADIENTS[h % GRADIENTS.length];
-}
-
-// Shows the cover photo, or a generated gradient with the city name when there isn't one yet.
+// Shows the cover photo, or the official DevFest logo with the event's city name.
 export function EventCover({
   event,
   priority = false,
@@ -27,13 +14,27 @@ export function EventCover({
   if (event.coverImage) {
     return (
       <div className="relative aspect-[16/9] w-full overflow-hidden">
-        <Image src={event.coverImage.src} alt={event.coverImage.alt} fill sizes={sizes} priority={priority} className="object-cover" />
+        <Image
+          src={event.coverImage.src}
+          alt={event.coverImage.alt}
+          fill
+          sizes={sizes}
+          priority={priority}
+          className="object-cover"
+        />
       </div>
     );
   }
+
   return (
-    <div aria-hidden className={`flex aspect-[16/9] w-full items-end bg-gradient-to-br p-4 ${pick(event.slug)}`}>
-      <span className="text-2xl font-bold tracking-tight text-white drop-shadow">{event.city}</span>
+    <div className="relative aspect-[16/9] w-full overflow-hidden bg-white dark:bg-neutral-900 border-b border-neutral-100 dark:border-neutral-800 flex items-center justify-center p-4">
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img
+        src={`/api/covers/${event.slug}.svg`}
+        alt={`DevFest ${event.city} 2026`}
+        loading={priority ? "eager" : "lazy"}
+        className="h-full w-full object-contain transition duration-300 group-hover:scale-105"
+      />
     </div>
   );
 }

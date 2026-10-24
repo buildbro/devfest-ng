@@ -17,10 +17,14 @@ export async function generateMetadata({ params }: PageProps<"/events/[slug]">):
   const event = await getEvent((await params).slug);
   if (!event) return {};
   const when = formatDateRange(event.startsAt, event.endsAt);
+  const coverUrl = event.coverImage?.src ?? `/api/covers/${event.slug}.svg`;
   return {
     title: event.title,
     description: `${event.title}: ${when}, ${event.venue.name}, ${event.city}. ${event.summary}`,
     alternates: { canonical: `/events/${event.slug}` },
+    openGraph: {
+      images: [{ url: coverUrl, alt: `${event.title} thumbnail` }],
+    },
   };
 }
 

@@ -1,14 +1,22 @@
 import Link from "next/link";
 import { Countdown } from "@/components/Countdown";
 import { EventCard } from "@/components/EventCard";
-import { formatDateRange, formatTime } from "@/lib/dates";
+import { HeroEventScroll } from "@/components/HeroEventScroll";
+import { formatDate, formatTime, getDayKey } from "@/lib/dates";
 import { getEvents, isUpcoming } from "@/lib/events";
 
 export default async function Home() {
   const events = await getEvents();
   const upcoming = events.filter(isUpcoming);
   const past = events.filter((e) => e.state === "past");
-  const next = upcoming[0];
+
+  // Group the earliest upcoming/live events by their date (in Africa/Lagos time)
+  const firstUpcoming = upcoming[0];
+  const nextDayKey = firstUpcoming ? getDayKey(firstUpcoming.startsAt) : null;
+  const nextEvents = firstUpcoming
+    ? upcoming.filter((e) => getDayKey(e.startsAt) === nextDayKey)
+    : [];
+
   const cities = [...new Set(events.map((e) => e.city))].sort();
 
   return (
@@ -21,29 +29,65 @@ export default async function Home() {
             Dates, venues, RSVP links, photos and videos for GDG DevFest events across the country.
           </p>
 
-          {next ? (
-            <div className="mt-10 max-w-2xl rounded-2xl bg-white/10 p-5 backdrop-blur">
-              <p className="text-sm uppercase tracking-wide opacity-80">{next.state === "live" ? "Happening now" : "Next up"}</p>
-              <h2 className="mt-1 text-2xl font-semibold">{next.title}</h2>
-              <p className="mt-1 opacity-90">
-                {formatDateRange(next.startsAt, next.endsAt)} · {formatTime(next.startsAt)} WAT · {next.venue.name}
-              </p>
-              {next.state === "upcoming" && (
-                <div className="mt-4">
-                  <Countdown target={next.startsAt} />
+          {nextEvents.length > 0 ? (
+            <HeroEventScroll
+              title={nextEvents.some((e) => e.state === "live") ? "Happening now" : "Next up"}
+              subtitle={
+                nextEvents.length > 1
+                  ? `${nextEvents.length} events on ${formatDate(firstUpcoming.startsAt, { weekday: true })}`
+                  : formatDate(firstUpcoming.startsAt, { weekday: true })
+              }
+              count={nextEvents.length}
+            >
+              {nextEvents.map((event) => (
+                <div
+                  key={event.slug}
+                  className={`flex flex-col justify-between rounded-2xl bg-white/10 p-5 backdrop-blur transition hover:bg-white/15 border border-white/10 ${
+                    nextEvents.length > 1
+                      ? "flex-none w-[68vw] sm:w-[55vw] md:w-[46vw] lg:w-[400px] snap-start"
+                      : "w-full"
+                  }`}
+                >
+                  <div>
+                    <div className="flex items-center justify-between gap-2">
+                      <span className="text-xs font-medium uppercase tracking-wider opacity-80">
+                        {event.city}, {event.state}
+                      </span>
+                      <span className="rounded-full bg-white/20 px-2.5 py-0.5 text-xs font-semibold">
+                        {formatTime(event.startsAt)} WAT
+                      </span>
+                    </div>
+                    <h2 className="mt-2 text-xl font-bold leading-snug">{event.title}</h2>
+                    <p className="mt-1 text-sm opacity-90 line-clamp-2">
+                      {event.venue.name} · {event.venue.address}
+                    </p>
+                    {event.state === "upcoming" && (
+                      <div className="mt-3">
+                        <Countdown target={event.startsAt} />
+                      </div>
+                    )}
+                  </div>
+                  <div className="mt-5 flex flex-wrap items-center gap-2">
+                    <Link
+                      href={`/events/${event.slug}`}
+                      className="rounded-full bg-white px-4 py-2 text-xs font-semibold text-indigo-800 hover:bg-neutral-100"
+                    >
+                      Event details
+                    </Link>
+                    {event.rsvpUrl && (
+                      <a
+                        href={event.rsvpUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="rounded-full border border-white/60 px-4 py-2 text-xs font-semibold hover:bg-white/10"
+                      >
+                        RSVP
+                      </a>
+                    )}
+                  </div>
                 </div>
-              )}
-              <div className="mt-5 flex flex-wrap gap-3">
-                <Link href={`/events/${next.slug}`} className="rounded-full bg-white px-5 py-2.5 text-sm font-semibold text-indigo-800 hover:bg-neutral-100">
-                  Event details
-                </Link>
-                {next.rsvpUrl && (
-                  <a href={next.rsvpUrl} target="_blank" rel="noopener noreferrer" className="rounded-full border border-white/60 px-5 py-2.5 text-sm font-semibold hover:bg-white/10">
-                    RSVP
-                  </a>
-                )}
-              </div>
-            </div>
+              ))}
+            </HeroEventScroll>
           ) : (
             <p className="mt-10 rounded-2xl bg-white/10 p-5">No upcoming events are listed right now. Check back soon.</p>
           )}
